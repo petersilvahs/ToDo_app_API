@@ -5,7 +5,7 @@ Este projeto refere-se a uma API de usuários e tarefas
  :relaxed: <h2>Onde me encontrar</h2>
 
 [![PERFIL](https://img.shields.io/badge/linkedin%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=000000)](https://www.linkedin.com/in/peter-silva-14bb371a2/)
-[![REPOSITÓRIOS](https://img.shields.io/badge/repositórios%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&colorFFFFFFF)](https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md)
+[![REPOSITÓRIOS](https://img.shields.io/badge/repositórios%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&colorFFFFFFF)](https://github.com/petersilvahs?tab=repositories)
 
 :rocket:<h3>Como instalar as dependências</h3>
 
