@@ -44,8 +44,7 @@ Para buscar as tarefas específicas de um id
 POST:/tarefas
 Para inserir uma nova tarefa
 DELETE:/tarefas/:id
-Para deletar uma tarefa específica
-```
+Para deletar uma tarefa específica```
 
 
 
