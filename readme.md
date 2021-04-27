@@ -10,6 +10,7 @@ Este projeto refere-se a uma API de usuários e tarefas
 :rocket:<h3>Como instalar as dependências</h3>
 
 Clone o repositório:
+
 ```git clone <seu repositório>```
 
 Insira o comando no terminal:
@@ -44,7 +45,8 @@ Para buscar as tarefas específicas de um id
 POST:/tarefas
 Para inserir uma nova tarefa
 DELETE:/tarefas/:id
-Para deletar uma tarefa específica```
+Para deletar uma tarefa específica
+```
 
 
 
