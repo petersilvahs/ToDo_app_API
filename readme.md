@@ -35,7 +35,7 @@ DELETE:/usuarios/:id
 Para deletar um usuário específico
 ```
 
-<h6>Tarefas</h6>
+<h5>Tarefas</h5>
 
 ```js
 GET:/tarefas
